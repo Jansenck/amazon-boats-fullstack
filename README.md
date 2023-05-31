@@ -1,9 +1,5 @@
 # amazon-boats-fullstack
 
-## Iniciando o frontend:
-
-1 - Na pasta <b>amazon-boats-fullstack/frontend</b> dê o comando <b>npm run dev</b>
-
 ## Iniciando o backend:
 
 <p>1 - Para iniciar o backend você precisará ter instalados em sua máquina: PostgreSQL, Node.js e Node Package Manager.</p>
@@ -23,3 +19,7 @@
 <p>8 - Na pasta <b>amazon-boats-fullstack/amazon-boat-server</b> dê o comando <b>npm run dev</b></p>
 
 <p>Após essas configurações o servidor deverá iniciar e mostrará uma mensagem no terminal afirmando que está no ar.</p>
+
+## Iniciando o frontend:
+
+1 - Na pasta <b>amazon-boats-fullstack/frontend</b> dê o comando <b>npm run dev</b>
