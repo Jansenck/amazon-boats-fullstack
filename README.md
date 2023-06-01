@@ -14,9 +14,9 @@
 
 <p>6 - Clone o este repositorio</p>
 
-<p>7 - No terminal, na pasta do frontend, instale as dependências do projeto com o comando <b>npm i</b></p>
+<p>7 - No terminal, na pasta raiz do server, instale as dependências do projeto com o comando <b>npm i</b></p>
 
-<p>8 - No terminal, abra o respectivo repositório clonado na pasta <b>amazon-boat-server</b> e dê o comando <b>npm run dev:migrate:generate</b></p>
+<p>8 - No terminal, abra o respectivo repositório clonado na pasta <b>server</b> e dê o comando <b>npm run dev:migrate:generate</b></p>
 
 <p>9 - Na pasta <b>amazon-boats-fullstack/amazon-boat-server</b> dê o comando <b>npm run dev</b></p>
 
@@ -24,7 +24,7 @@
 
 ## Iniciando o frontend:
 
-<p>1 - No terminal, na pasta do frontend, instale as dependências do projeto com o comando <b>npm i</b></p>
+<p>1 - No terminal, na pasta raiz do frontend, instale as dependências do projeto com o comando <b>npm i</b></p>
 
 <p>2- Acesse a pasta .ENV_EXAMPLE e adicione a variável de ambiente: <b>VITE_API_BASE_URL = http://localhost:5000</b> e salve o arquivo/</p>
 
