@@ -14,11 +14,13 @@
 
 <p>6 - Clone o este repositorio</p>
 
-<p>7 - No terminal, na pasta raiz do server, instale as dependências do projeto com o comando <b>npm i</b></p>
+<p>7 - Acessar o '.env.example' e criar um arquivo com o nome '.env.development' com os exemplos contidos em '.env.example'</p>
 
-<p>8 - No terminal, abra o respectivo repositório clonado na pasta <b>server</b> e dê o comando <b>npm run dev:migrate:generate</b></p>
+<p>8 - No terminal, na pasta raiz do server, instale as dependências do projeto com o comando <b>npm i</b></p>
 
-<p>9 - Na pasta <b>amazon-boats-fullstack/amazon-boat-server</b> dê o comando <b>npm run dev</b></p>
+<p>9 - No terminal, abra o respectivo repositório clonado na pasta <b>server</b> e dê o comando <b>npm run dev:migrate:generate</b></p>
+
+<p>10 - Na pasta <b>amazon-boats-fullstack/amazon-boat-server</b> dê o comando <b>npm run dev</b></p>
 
 <p>Após essas configurações o servidor deverá iniciar e mostrará uma mensagem no terminal afirmando que está no ar.</p>
 
